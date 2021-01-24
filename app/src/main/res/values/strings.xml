@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PreferenciasFicheros</string>
+    <string name="titulo_memoriaInterna">Memoria Interna</string>
+    <string name="title_editText">Nombre del archivo</string>
+    <string name="summary">Nombre del archivo de la memoria interna</string>
+    <string name="title_memoria_externa">Memoria externa</string>
+    <string name="title_edittext_sdcard">Ruta en SDCard</string>
+    <string name="summary_ruta_sdcard">Ruta donde se guardara el archivo en la SDCard</string>
+    <string name="summary_nombre">Nombre del archivo de la memoria externa</string>
+    <string name="settings_action">Preferences</string>
+    <string name="escribir_interno">Escribir en memoria Interna</string>
+    <string name="escribir_externo">Escribir en memoria Externa</string>
+    <string name="leer_interno">Leer en memoria interna</string>
+    <string name="leer_externo">Leer en memoria externa</string>
+
+</resources>
